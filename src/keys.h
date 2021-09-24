@@ -26,6 +26,7 @@ uint8_t* g_ekpfs_obf_key_5;
 uint8_t* g_ekpfs_obf_key_6;
 uint8_t* g_ekpfs_obf_key_7;
 uint8_t* g_ekpfs_obf_key_8;
+uint8_t* g_ekpfs_obf_key_9;
 
 uint8_t* g_gdgp_ekc_key_0;
 uint8_t* g_gdgp_ekc_key_1;
